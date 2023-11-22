@@ -1,0 +1,9 @@
+.bg-w.port{
+    height: 100vh;
+
+}
+.grad{
+        background: rgb(227, 139, 179);
+    background: radial-gradient(circle, rgb(240, 151, 193) 0%, rgb(150, 227, 222) 100%);
+    }
+

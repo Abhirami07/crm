@@ -26,7 +26,7 @@ orm query for filtering employee records
 >qs=Employees.objects.filter(department="hr")
 
 
-
+optional query parameter== localhost:1800/Employees/all?department=hr
 
 __gte>=
 __lte<=
